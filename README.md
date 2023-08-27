@@ -10,3 +10,5 @@ instrcution decoder decodes the instruction which is output of the instrcuiton m
 ## 4. ALU
 ALU is the Arthematic and Logical Unit of microprocessor in which basic arthematic and logical tasks like "AND, OR, XOR, ADD, SUB are performed on the demand of control unit on the data sent by control unit.
 ## 5. Register_block
+Resistor_block is one of the most important part of any processor. It is the place where the inputs and ooutputs of a process stored before storing them into the main memory. In this processor there are four Resistro implemented. In any process you can use any of resistor to store the value (load and store are expection).
+## 6. 
